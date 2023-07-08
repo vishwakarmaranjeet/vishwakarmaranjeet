@@ -6,7 +6,7 @@
 <p>Frontend UI Engineer. I love to build beautiful user interfaces using JavaScript, ReactJs, Redux, Saga, NextJs, HTML5, CSS3, Tailwind, Bootstrap and others web technologies.</p>
 
 <h3>Technologies</h3>
-<p>- JavaScript . ReactJs . Redux. Saga . HTML . CSS . NodeJS . Ajax . jQuery . MySQL . PHP</p>
+<p>- JavaScript . ReactJs . NextJs . Redux. Saga . HTML . CSS . NodeJS . Webpack . Grunt . Ajax . jQuery . MySQL . PHP</p>
 
 <!--
 **vishwakarmaranjeet/vishwakarmaranjeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
