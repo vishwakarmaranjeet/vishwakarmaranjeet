@@ -9,7 +9,9 @@
 
 <h3>Technologies</h3>
 <p>- JavaScript . ReactJs . NextJs . Redux. Saga . HTML . CSS . NodeJS . Webpack . Grunt . Ajax . jQuery . MySQL . PHP</p>
-<p>- Performance . Optimizations . Scalability . Code Maintanance . SEO . On page SEO . </p>
+
+<h3>Interested </h3>
+<p>- System Design . Performance . Optimizations . Scalability .  </p>
 
 <!--
 **vishwakarmaranjeet/vishwakarmaranjeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
