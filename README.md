@@ -10,7 +10,7 @@
 
 <h3>Interested </h3>
 <p>- System Design . Performance . Optimizations . Scalability </p>
-<div style="display:flex">
+<div style="display:flex; align-items:center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwakarmaranjeet&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwakarmaranjeet&theme=chartreuse-dark" alt="mystreak"/>
