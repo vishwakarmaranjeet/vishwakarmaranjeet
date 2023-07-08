@@ -1,4 +1,7 @@
 ### Hi there 👋 I'm Ranjeet Vishwakarma.
+<a href="https://www.linkedin.com/in/ranjeetvishwakarma/">
+  Linkedin Profile
+</a>
 <p>Frontend UI Engineer. I love to build beautiful user interfaces using JavaScript, ReactJs, Redux, NextJs, HTML5, CSS3, Tailwind, Bootstrap and others web technologies.</p>
 
 <!--
