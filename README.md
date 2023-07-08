@@ -11,7 +11,7 @@
 <p>- JavaScript . ReactJs . NextJs . Redux. Saga . HTML . CSS . NodeJS . Webpack . Grunt . Ajax . jQuery . MySQL . PHP</p>
 
 <h3>Interested </h3>
-<p>- System Design . Performance . Optimizations . Scalability .  </p>
+<p>- System Design . Performance . Optimizations . Scalability . Solid Principles </p>
 
 <!--
 **vishwakarmaranjeet/vishwakarmaranjeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
