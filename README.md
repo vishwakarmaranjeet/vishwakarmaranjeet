@@ -13,8 +13,7 @@
 <p>- System Design . Performance . Optimizations . Scalability </p>
 <div style="display:flex; align-items:center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwakarmaranjeet&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" height="196px" />
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwakarmaranjeet&theme=chartreuse-dark" alt="mystreak" style="margin-left:15px;"/>
+
 </div>
 
 <!--
