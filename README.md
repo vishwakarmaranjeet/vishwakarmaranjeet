@@ -1,3 +1,4 @@
+
 ### Hi there 👋 I'm Ranjeet Vishwakarma.
 <a href="https://www.linkedin.com/in/ranjeetvishwakarma/">
   <img src="https://camo.githubusercontent.com/82ab6b41b25758ca65942c3c2adb86622cf01a43a8011005c29cbd69089854a6/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6c696e6b6564696e2d69636f6e2d322e737667" title="Linkedin" alt="Linkedin Account" width="30" data-canonical-src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" style="max-width: 100%;">
@@ -14,6 +15,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwakarmaranjeet&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwakarmaranjeet&theme=chartreuse-dark" alt="mystreak" style="margin-left:15px;"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwakarmaranjeet&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 </div>
 
 <!--
