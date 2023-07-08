@@ -3,7 +3,7 @@
   <img src="https://camo.githubusercontent.com/82ab6b41b25758ca65942c3c2adb86622cf01a43a8011005c29cbd69089854a6/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6c696e6b6564696e2d69636f6e2d322e737667" title="Linkedin" alt="Linkedin Account" width="30" data-canonical-src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" style="max-width: 100%;">
 </a>
 <br/>
-<p>Frontend UI Engineer. I love to build beautiful user interfaces using JavaScript, ReactJs, Redux, NextJs, HTML5, CSS3, Tailwind, Bootstrap and others web technologies.</p>
+<p>Frontend UI Engineer. I love to build beautiful user interfaces using JavaScript, ReactJs, Redux, Saga, NextJs, HTML5, CSS3, Tailwind, Bootstrap and others web technologies.</p>
 
 <!--
 **vishwakarmaranjeet/vishwakarmaranjeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
