@@ -8,7 +8,7 @@
 <h1>{ ...JS ❤️ }</h1>
 
 <h3>Technologies</h3>
-<p>- JavaScript . ReactJs . NextJs . Redux. Saga . HTML . CSS . NodeJS . Webpack . Grunt . Ajax . jQuery . MySQL . PHP</p>
+[JavaScript, ReactJs, NextJs, Redux, Saga, HTML, CSS, NodeJS, Webpack, Grunt, Ajax, jQuery, MySQL, PHP]
 
 <h3>Interested </h3>
 <p>- System Design . Performance . Optimizations . Scalability . Solid Principles </p>
