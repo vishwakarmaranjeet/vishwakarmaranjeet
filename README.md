@@ -7,7 +7,7 @@
 <p>UI Frontend developer. I love to build beautiful user interfaces using JavaScript, ReactJs, Redux, Saga, NextJs, HTML5, CSS3, Tailwind, Bootstrap and others web technologies.</p>
 
 <h3>Technologies</h3>
-<p>- JavaScript . ReactJs . NextJs . Redux . Saga . HTML . CSS . NodeJS . Webpack . Grunt . Ajax . jQuery . MySQL . PHP </p>
+<p>- JavaScript . ReactJs . NextJs . Redux . Redux-Saga . HTML . CSS . NodeJS . Webpack . Grunt . Ajax . jQuery . MySQL . PHP </p>
 
 <h3>Interested </h3>
 <p>- System Design . Performance . Optimizations . Scalability </p>
