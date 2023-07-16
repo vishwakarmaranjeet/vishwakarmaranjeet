@@ -23,7 +23,6 @@ p{
 }
 .header{
     display: flex;
-    align-items: center;
 }
 .avatar{
     width: 120px;
@@ -41,7 +40,7 @@ p{
 }
 .name-details .name{
     font-size: 30px;
-    border-bottom: 1px solid #333;
+    border-bottom: 1px solid #7d7d7d;
     padding-bottom: 10px;
     max-width: fit-content;
 }
@@ -70,7 +69,8 @@ p{
 .mt-10{
     margin-top: 10px;
 }
-.summary{
+.mt-5{
+    margin-top: 5px;
 }
 .duration{
     font-size: 13px;
