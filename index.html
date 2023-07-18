@@ -14,11 +14,34 @@
       href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="main.css?v2_1.0.0" />
     <script
       src="https://kit.fontawesome.com/529a9010e2.js"
       crossorigin="anonymous"
     ></script>
+    <script type="text/javascript">
+      const getTime = () => {
+        let date = new Date();
+        return date.getTime();
+      };
+      let fetchStyle = function (url) {
+        let date = new Date();
+        return new Promise((resolve, reject) => {
+          let link = document.createElement("link");
+          link.type = "text/css";
+          link.rel = "stylesheet";
+          link.onload = () => resolve();
+          link.onerror = () => reject();
+          link.href = `${url}?v=${getTime()}`;
+
+          let headScript = document.querySelector("script");
+          headScript.parentNode.insertBefore(link, headScript);
+        });
+      };
+      fetchStyle("main.css").then(
+        () => console.log("style loaded succesfully"),
+        () => console.error("style could not be loaded")
+      );
+    </script>
   </head>
   <body>
     <main class="container">
