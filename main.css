@@ -2,6 +2,9 @@
   margin: 0;
   padding: 0;
 }
+html {
+  scroll-behavior: smooth;
+}
 body {
   font-family: "Montserrat", sans-serif;
 }
@@ -15,6 +18,7 @@ p {
   line-height: 24px;
 }
 .container {
+  background-color: #fff;
   max-width: 1080px;
   border-left: 3px solid #333;
   box-shadow: 0 0 1px 0 #ccc;
@@ -28,7 +32,7 @@ p {
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  background-color: #333;
+  background-color: #ccc;
 }
 .avatar > img {
   width: 100%;
@@ -39,16 +43,18 @@ p {
   margin-left: 40px;
 }
 .name-details .name {
-  font-size: 30px;
+  font-size: 25px;
   border-bottom: 1px solid #7d7d7d;
   padding-bottom: 10px;
   max-width: fit-content;
 }
 .name-details .designation {
   margin-top: 10px;
+  font-size: 18px;
 }
 .name-details .location {
   margin-top: 5px;
+  font-size: 13px;
 }
 .contact-info {
   display: flex;
@@ -62,6 +68,9 @@ p {
   font-size: 13px;
   text-decoration: none;
   color: #333;
+}
+h2 {
+  font-size: 22px;
 }
 .mt-30 {
   margin-top: 30px;
