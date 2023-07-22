@@ -115,16 +115,16 @@ h2 {
   .name-details {
     margin-left: 0;
   }
-  .social-links {
+  .contact-info {
     flex-direction: column;
   }
-  .social-links .linkedin {
+  .contact-info .linkedin {
     display: flex;
   }
-  .social-links .linkedin a {
+  .contact-info .linkedin a {
     margin-left: 5px;
   }
-  .social-links .github {
+  .contact-info .github {
     margin-left: 0;
     margin-top: 6px;
   }
