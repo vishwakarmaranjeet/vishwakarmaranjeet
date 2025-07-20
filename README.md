@@ -1,9 +1,9 @@
 
 ### Hi there 👋 I'm Ranjeet Vishwakarma.
-<a href="https://www.linkedin.com/in/ranjeetvishwakarma/">
+<a href="https://www.linkedin.com/in/ranjeetvishwakarma/" style="display: inline-block">
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" title="Linkedin" alt="Linkedin Account" width="30" data-canonical-src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" style="max-width: 100%;">
 </a>
-<a href="https://vishwakarmaranjeet.github.io/vishwakarmaranjeet/" style="margin-left: 10px;">
+<a href="https://vishwakarmaranjeet.github.io/vishwakarmaranjeet/" style="display: inline-block, margin-left: 10px;">
   <img src="https://vishwakarmaranjeet.github.io/vishwakarmaranjeet/assets/1749745740587.jpeg" width="30" style="max-width: 100%;">
 </a>
 <br/><br/>
