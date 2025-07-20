@@ -10,7 +10,7 @@
   >
 </a>
 
-<a href="https://vishwakarmaranjeet.github.io/vishwakarmaranjeet/" style="display: inline-block; margin-left: 10px;">
+<a href="https://vishwakarmaranjeet.github.io/vishwakarmaranjeet/" style="display: inline-block; margin-left: 20px;">
   <img 
     src="https://vishwakarmaranjeet.github.io/vishwakarmaranjeet/assets/1749745740587.jpeg" 
     width="30" 
