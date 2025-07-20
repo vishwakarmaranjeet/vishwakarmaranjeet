@@ -3,8 +3,8 @@
 <a href="https://www.linkedin.com/in/ranjeetvishwakarma/">
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" title="Linkedin" alt="Linkedin Account" width="30" data-canonical-src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" style="max-width: 100%;">
 </a>
-<a href="https://www.linkedin.com/in/ranjeetvishwakarma/">
-  <img src="https://vishwakarmaranjeet.github.io/vishwakarmaranjeet/assets/favicon-32x32.png" width="30" data-canonical-src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" style="max-width: 100%;">
+<a href="https://vishwakarmaranjeet.github.io/vishwakarmaranjeet/">
+  <img src="https://vishwakarmaranjeet.github.io/vishwakarmaranjeet/assets/1749745740587.jpeg" width="30" style="max-width: 100%;">
 </a>
 <br/><br/>
 <p>UI Frontend developer. I love to build beautiful user interfaces using JavaScript, ReactJs, Redux, Saga, NextJs, HTML5, CSS3, Tailwind, Bootstrap and others web technologies.</p>
