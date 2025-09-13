@@ -10,7 +10,7 @@
   >
 </a>
 <br/><br/>
-<p>UI Frontend developer. I love to build beautiful user interfaces using JavaScript, ReactJs, Redux, Saga, NextJs, HTML5, CSS3, Tailwind, Bootstrap and others web technologies.</p>
+<p>Software Engineer specializing in scalable, modular frontend architectures that deliver measurable business value and exceptional user experiences. Experienced across B2B, B2C, financial services, and enterprise applications, with a strong track record of translating complex business requirements into intuitive, high-performance user interfaces. Thrive in Agile environments, driving consistent, user-centric solutions through close collaboration with cross-functional teams.</p>
 
 <h3>Technologies</h3>
 <p>- JavaScript (ES6+) . ReactJs . NextJs . Redux . Redux-Saga . HTML . CSS . NodeJS . RestAPI JSON . Unit Testing . WebPack . Grunt . Ajax . jQuery . MySQL . PHP . Unit Testing . SPA . Agile . Grunt . UI Development . SEO . Google Analytics . Google Tag Manager</p>
